@@ -20,7 +20,7 @@
 - A Full Stack Developer who loves APIs
 - Coding in python at my free time
 - Currently learning Web Development 
-- I’m currently open for an Intern or a new job opportunity, this is [my Linkedin]([https://www.0xabdulkhalid.ml](https://www.linkedin.com/in/jose-rodriguez-calero-913b48252/))
+- I’m currently open for an Intern or a new job opportunity, this is [my Linkedin](https://www.0xabdulkhalid.ml(https://www.linkedin.com/in/jose-rodriguez-calero-913b48252/))
 
 <br><br>
 
