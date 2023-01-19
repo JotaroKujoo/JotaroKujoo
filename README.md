@@ -84,7 +84,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-![Jose GitHub stats](https://github-readme-stats.vercel.app/api?username=JotaroKujoo)](https://github.com/anuraghazra/github-readme-stats)
+[![Jose GitHub stats](https://github-readme-stats.vercel.app/api?username=JotaroKujoo)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <div align="center">
